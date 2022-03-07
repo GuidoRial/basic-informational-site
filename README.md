@@ -2,6 +2,8 @@
 
 ## Live Preview
 
+https://basic-informational-site.guidorial.repl.co/
+
 ## Project Description
 
 A very small project I made while I learned how to use NodeJS, http and fs to create my own server
